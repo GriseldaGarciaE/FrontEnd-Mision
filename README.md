@@ -12,7 +12,7 @@ Responsable Funcional designado por el equipo de desarrollo de software: Griseld
 
 # 2.	FASE DE FORMALIZACIÓN
 
-Descripción de la Solicitud
+- Descripción de la Solicitud
 
 Usuario Solicitante:
 Somo un despacho de abogados que queremos automatizar las demandas de nuestros clientes, a través de una página web al llenar un formulario. Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción. Para dar seguimiento a la demanda, nuestros clientes crearan una cuenta en la plataforma y veran el seguimiento de cada una de las actualizaciones del proceso legal. Nosotros como administradores del sitio recibiremos la notificación de una nueva demanda y con los datos llenados del formulario se crea automáticamente el documento legal en formato word para empezar el proceso. Recibiremos el pago y debemos de ser capaces de verlo en un dashboard para ver la cantidad de ingresos recibidos. Como administradores podremos actualizar el proceso de la demanda y agregar comentarios en cada paso del proceso. Al cliente como usuario le llegan correos de notificación para saber el avance de su proceso. La página debe de ser responsiva para poderla ver desde el celular. Nuestra preferencia de colores es azul marino y blanco, pero aceptamos propuestas.
@@ -23,10 +23,24 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 # 3.	ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
-Modelamiento de Negocio
-![Modelamiento de Negocio](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/4bbc5091cf216a1f4aed08e33db12aaff5680d44/images/Modelamiento%20de%20Negocio.jpg)
+- Modelamiento de Negocio
+![Modelamiento de Negocio](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/87239fa250189a771633fffc1626bb6ecce8efb9/images/Modelamiento%20de%20Negocio.jpg)
 
-Términos de Referencia
+- Requisitos Técnicos
+
+Tipo de Desarrollo
+   - Web
+   - Movil
+
+Base de Datos
+   - SQL Server
+
+Lenguaje
+   - JavaScript
+   - HTML
+   - CSS
+
+
 
 
 
