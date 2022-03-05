@@ -46,7 +46,8 @@ Lenguaje
    - CSS
 
 
-![image](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/3b73f4dea048d77973c8a85f64b9c69d69639cf7/images/buyer%20persona.pngg)
+![Buyer Persona](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/3b73f4dea048d77973c8a85f64b9c69d69639cf7/images/buyer%20persona.png)
+
 
 
 
