@@ -23,7 +23,12 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 # 3.	ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
-https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/f308f8286dc706ccff2cf4554d44248c0e9d8cf4/images/Modelamiento%20de%20Negocio.jpg
+Modelamiento de Negocio
+![Modelamiento de Negocio](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/4bbc5091cf216a1f4aed08e33db12aaff5680d44/images/Modelamiento%20de%20Negocio.jpg)
+
+Términos de Referencia
+
+
 
 
 
