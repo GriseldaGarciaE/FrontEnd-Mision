@@ -31,7 +31,7 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 - Modelamiento de Negocio
 ![Modelamiento de Negocio](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/87239fa250189a771633fffc1626bb6ecce8efb9/images/Modelamiento%20de%20Negocio.jpg)
 
-- Requisitos Técnicos
+Requisitos Técnicos
 
 Tipo de Desarrollo
    - Web
