@@ -4,10 +4,15 @@ Practicas
 # 1.	DESCRIPCION GENERAL DEL REQUERIMIENTO
 
 PROYECTO: Abogabot
+
 Nombre Requerimiento: Solicitud y seguimiento de demandas a travez de un sitio web responsivo
+
 Fecha Solicitud: 22-Feb-2022
+
 Responsable(s) Solicitud: Briseida Garcia
+
 Dependencia(s) Solicitante: BQS Energy
+
 Responsable Funcional designado por el equipo de desarrollo de software: Griselda Garcia
 
 # 2.	FASE DE FORMALIZACIÓN
