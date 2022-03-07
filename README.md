@@ -49,6 +49,10 @@ Lenguaje
 
 ![Buyer Persona](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/3b73f4dea048d77973c8a85f64b9c69d69639cf7/images/buyer%20persona.png)
 
+![Persona Objetivo](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/8bdd7e33ac474869445bd50638dcb0e51863db55/images/persona%20objetivo1.jpeg)
+
+
+
 
 
 
